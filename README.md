@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Kevin
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning webpack
 - 📫 How to reach me https://www.linkedin.com/in/kevin-albino-demetro-7a6514208
-
